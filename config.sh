@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Customize MIUI fonts      "
+  ui_print "      Customize MIUI UI        "
   ui_print "*******************************"
 }
 

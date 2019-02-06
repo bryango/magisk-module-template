@@ -1,6 +1,8 @@
-# MIUI custom fonts
+# MIUI custom UI
 ## Description
-Customized `fonts.xml` setting, for MIUI 9. 
+> Tested only on Mi 6 (sagit)
+- Customized `fonts.xml` setting, for MIUI 9.
+- Global style notification shade, for China ROM.
 ## Links
 [Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
 
